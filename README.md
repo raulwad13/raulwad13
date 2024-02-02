@@ -19,8 +19,10 @@
 <div align="left">
    <h3>🔨 Lenguages and Tools:</h3>
    <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" higth="40" width"40"/>
-
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" higth="40" width="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="css" higth="40" width="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" higth="40" width="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" higth="40" width="40"/>
    </div>
 </div>
 
