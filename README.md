@@ -10,7 +10,7 @@
   <a href="mailto:awadraul#@gmail.com" target="_blank">
     <img style="border-radius:10px; overflow:hidden" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email Logo"  />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/raulwad13/raulwad13/blob/main/Ra%C3%BAl_Awad_CV.pdf" target="_blank">
     <img style="border-radius:10px; overflow:hidden" src="https://img.shields.io/static/v1?message=CV&logo=readdotcv&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Download CV" />
 </a>
 <a href="" target="_blank">
