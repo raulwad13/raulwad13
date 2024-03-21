@@ -29,7 +29,7 @@
 ---
 
 <div align="left">
-   <h3>🔨 Lenguages and Tools:</h3>
+   <h3> 💻🛠Lenguages and Tools:</h3>
 <div>
   <h6>Frontend</h6>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
