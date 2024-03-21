@@ -61,6 +61,8 @@
     <!-- Containerization and Testing -->
   <h6>Testing and Documentation</h6>
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
+
 
   <br>
   <h6>Version Control, Collaboration Tools</h6>
