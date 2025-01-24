@@ -24,7 +24,7 @@
 
 -💻I currently work with JS, React and Node.
 
--📩You can reach me in ***rawad13@myyahoo.com*** or ***Raúl Awad Cabrera in LinkedIn***.
+-📩You can reach me in ***awadraul#@gmail.com*** or ***Raúl Awad Cabrera in LinkedIn***.
 
 ---
 
