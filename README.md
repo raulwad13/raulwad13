@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" width="65"/>
 
   <br>
     <!-- Databases -->
@@ -52,6 +52,8 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
     <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" width="65"/>
+  <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" width="70"/>
 
   <br>
   <h6>Package Managers, Build Tools, Containerization</h6>
