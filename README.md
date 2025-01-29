@@ -18,7 +18,7 @@
 
 ---
 
-### 🦍About me:
+### 🦧About me:
 
 -🏅I'm a junior web fullstack developer.
 
@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"/>
 
   <br>
     <!-- Databases -->
